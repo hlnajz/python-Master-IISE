@@ -40,6 +40,11 @@ This repository contains the complete set of exercises for the **Advanced Python
 | :--- | :--- | :--- |
 | `app_iise.py` | **Smart Platform** | The final Streamlit application integrating the Strategy, Singleton, and Registry patterns. |
 
+### 🔹 Part 3: Functional Programming
+| File | Title | Description |
+| :--- | :--- | :--- |
+| `app_iise.py` | **University Platform** | |
+
 ---
 
 ## 🛠️ Technical Implementation Details
